@@ -19,8 +19,3 @@ sentence-transformers
 transformers
 torch
 
-# Additional requirements
-requests
-typing-extensions
-numpy
-pydantic
