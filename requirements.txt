@@ -1,0 +1,28 @@
+# Flask and related packages
+flask
+python-dotenv
+
+# LangChain and related packages
+langchain
+langchain-community
+langchain-groq
+
+# Vector store
+faiss-cpu
+
+# Document processing
+pypdf
+python-magic-bin
+pi_heif
+unstructured_inference
+
+# Embeddings
+sentence-transformers
+transformers
+torch
+
+# Additional requirements
+requests
+typing-extensions
+numpy
+pydantic
