@@ -12,9 +12,7 @@ faiss-cpu
 
 # Document processing
 pypdf
-python-magic-bin
-pi_heif
-unstructured_inference
+
 
 # Embeddings
 sentence-transformers
